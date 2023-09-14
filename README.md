@@ -35,7 +35,7 @@ The steps are as follows:
 
 Please refer to the [Face++ technical manual](https://console.faceplusplus.com.cn/documents/268763412) for more details.
 ## Dataset
-Please click the link below to download the dataset:
+The NJlocalFace dataset is located in the NJlocalFace folder of this project. Please click the links below to download the other two datasets:
 
 [Download WiderFace:](http://shuoyang1213.me/WIDERFACE/) [![WiderFace](https://img.shields.io/badge/Download-WiderFace-blue)](http://shuoyang1213.me/WIDERFACE/)
 
