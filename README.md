@@ -39,4 +39,4 @@ Please click the link below to download the dataset:
 
 [Download WiderFace:](http://shuoyang1213.me/WIDERFACE/) [![WiderFace](https://img.shields.io/badge/Download-WiderFace-blue)](http://shuoyang1213.me/WIDERFACE/)
 
-[Download DroneFace:](https://img.shields.io/badge/Download-DroneFace-brone) [![DroneFace](https://img.shields.io/badge/Download-DroneFace-brone)](https://hjhsu.github.io/DroneFace/)
+[Download DroneFace:](https://hjhsu.github.io/DroneFace/) [![DroneFace](https://img.shields.io/badge/Download-DroneFace-brone)](https://hjhsu.github.io/DroneFace/)
