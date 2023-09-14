@@ -1,2 +1,2 @@
 # MobiLocal
- It's good.
+MobiLocal is a target recognition system designed for unmanned aerial vehicles (UAVs), based on YOLOv7 and Face++. This system employs YOLOv7 initially to detect and extract faces, followed by a Recalibration process to further enhance the faces (including resizing and facial enhancement). Subsequently, the processed data is input into Face++ for facial recognition. We trained YOLOv7 using the WiderFace dataset and conducted testing using DroneFace and NJlocalFace datasets. In scenarios with lower angles and shorter distances, the system achieves an average accuracy rate exceeding 90%, demonstrating its excellent performance.
